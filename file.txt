@@ -1,3 +1,4 @@
 Testing Jenkins GitHub Webhook
 Hello Jenkins!
 Testing automatic GitHub trigger.
+Testing automatic Jenkins trigger.
